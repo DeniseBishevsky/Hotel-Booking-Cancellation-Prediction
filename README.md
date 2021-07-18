@@ -1,5 +1,6 @@
 # Hotel-Booking-Cancellation-Prediction - Machine-Learning-Project
 
+![cover](https://github.com/DeniseBishevsky/Hotel-Booking-Cancellation-Prediction/blob/main/image.png)
 Details:<br>
 Course Name: Intro to Machine Learning<br>
 Faculty: Faculty of Engineering, Tel-Aviv University<br>
