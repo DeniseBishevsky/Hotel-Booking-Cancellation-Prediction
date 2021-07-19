@@ -2,6 +2,12 @@
 
 ![cover](https://github.com/DeniseBishevsky/Hotel-Booking-Cancellation-Prediction/blob/main/image.png)
 
+
+You can find the final project here:
+
+https://denisebishevsky.github.io/Hotel-Booking-Cancellation-Prediction/Hotel-Booking-Cancellation.html
+
+
 Details:<br>
 Course Name: Intro to Machine Learning<br>
 Faculty: Faculty of Engineering, Tel-Aviv University<br>
